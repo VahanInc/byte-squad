@@ -1,0 +1,15 @@
+git+https://github.com/pipecat-ai/pipecat.git@1cccb97ccf8261e2a4bfb613d3c3a9a8b41b1902
+git+https://github.com/pipecat-ai/pipecat-flows.git@1e7ed9894ead5431bfd9d021d09dce30f796e71a
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+loguru
+plivo
+websockets
+websocket-client
+
+
+
+
+
